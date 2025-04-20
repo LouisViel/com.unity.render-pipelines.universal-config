@@ -7,9 +7,9 @@
 //
 // UnityEngine.Rendering.Universal.ShaderOptions:  static fields
 //
-#define MAX_VISIBLE_LIGHT_COUNT_LOW_END_MOBILE (16) // 16
-#define MAX_VISIBLE_LIGHT_COUNT_MOBILE (32) // 32
-#define MAX_VISIBLE_LIGHT_COUNT_DESKTOP (256) // 256
+#define MAX_VISIBLE_LIGHT_COUNT_LOW_END_MOBILE (4) // 16
+#define MAX_VISIBLE_LIGHT_COUNT_MOBILE (4) // 32
+#define MAX_VISIBLE_LIGHT_COUNT_DESKTOP (8) // 256
 
 
 #endif
